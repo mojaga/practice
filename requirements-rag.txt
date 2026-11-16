@@ -1,0 +1,2 @@
+# Optional local semantic retrieval dependencies
+chromadb>=1.0,<2

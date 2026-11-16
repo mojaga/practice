@@ -1,0 +1,6 @@
+streamlit>=1.37
+anthropic>=0.40
+requests>=2.31
+python-dotenv>=1.0
+# Added when the provider connectors are promoted to real MCP servers:
+# mcp>=1.0
